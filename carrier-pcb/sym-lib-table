@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "2021-04-16_16-40-50")(type "Legacy")(uri "${KIPRJMOD}/3rd_party_libs/TE1-338068-8/ul_13380688/2021-04-16_16-40-50.lib")(options "")(descr ""))
 )
