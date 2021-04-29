@@ -6571,7 +6571,7 @@
     (property "Value" "1u" (id 1) (at 234.95 59.0549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 233.68 57.15 0)
+    (property "Footprint" "Diode_SMD:D_SMA-SMB_Universal_Handsoldering" (id 2) (at 233.68 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 233.68 57.15 0)
@@ -6951,7 +6951,7 @@
     (property "Value" "RND SMBJ5A" (id 1) (at 78.74 52.7049 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_0603_1608Metric" (id 2) (at 74.93 50.8 0)
+    (property "Footprint" "Diode_SMD:D_SMA" (id 2) (at 74.93 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 50.8 0)
@@ -7710,7 +7710,7 @@
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
     )
     (path "/91de5f95-5f20-4935-b831-c26bba9c0447"
-      (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C1") (unit 1) (value "1u") (footprint "Diode_SMD:D_SMA-SMB_Universal_Handsoldering")
     )
     (path "/36b91946-7ae6-4527-b4db-b08ffcb31f9c"
       (reference "C2") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -7773,7 +7773,7 @@
       (reference "C21") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/e8d31ee4-38f5-4ce1-ab90-c542bfff504f"
-      (reference "D1") (unit 1) (value "RND SMBJ5A") (footprint "Diode_SMD:D_0603_1608Metric")
+      (reference "D1") (unit 1) (value "RND SMBJ5A") (footprint "Diode_SMD:D_SMA")
     )
     (path "/b7f76a32-8469-43c8-9201-e25021d1cfb0"
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
