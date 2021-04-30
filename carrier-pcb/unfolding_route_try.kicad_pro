@@ -124,6 +124,7 @@
         0.2,
         0.3,
         0.4,
+        0.532,
         0.6,
         0.8,
         1.0,
@@ -387,7 +388,9 @@
         "name": "USB Data",
         "nets": [
           "USB_D+",
-          "USB_D-"
+          "USB_D+out",
+          "USB_D-",
+          "USB_D-out"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
