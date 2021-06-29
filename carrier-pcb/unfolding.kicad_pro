@@ -34,7 +34,7 @@
         "other_text_upright": false,
         "pads": {
           "drill": 3.4,
-          "height": 1.2,
+          "height": 1.6,
           "width": 3.4
         },
         "silk_line_width": 0.12,
@@ -356,7 +356,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "unfolding_route_try.kicad_pro",
+    "filename": "unfolding.kicad_pro",
     "version": 1
   },
   "net_settings": {
