@@ -1,0 +1,14 @@
+Id,Designator,Manufacturer,Quantity,Designation,Description,Link,Est. Price Û
+s,inner glove layer,Munitec GmbH,1,12025,clean room glove made of polyamide,https://www.munitec-gmbh.de/polyamid-reinraum-handschuhe-glatt.html,1
+2,outer glove layer,Worksave,1,L71-720,see glove bom for details,,1
+3,sock stop liquid latex,,1,,Available in any craft shop or online,,2
+4,wooden stick 19mm,,1,,Available in any craft shop or online,,1
+5,Flat ribbon cable,3M,1,8125/10 100,"grey cable, found a black one in a local shop",https://www.digikey.de/short/fwfd03w9,2
+6,IDC Connector,TE Connectivity,1,8-215083-8,idc connector to join pcb and glove,https://www.digikey.de/short/3zfqqqv3,7
+7,Vibration Motors,Jinlong Machinery & Electronics,1,G1040003D,"Strong LRA vibration motors. They seem to have changed their Designation to: VG1040003D Ð 	
+Vybronics, Inc",https://www.digikey.de/short/zwzpjh5d,29
+8,heat shrink tube,,1,,availbe in any electronics store or online,,1
+9,velcros ,,4,,Available in any craft shop or online,,2
+10,motor adhesive surface,3M,1,3M241471,needed to glue textile and shrink tube,https://www.3m.co.uk/3M/en_GB/p/d/v000090527/,1
+,,,,,,,
+,,,,,,SUM,47
