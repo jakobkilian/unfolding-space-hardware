@@ -1,9 +1,0 @@
-(fp_lib_table
-  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO.pretty")(options "")(descr ""))
-  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/3rd_party_libs/TE1-338068-8/ul_13380688/footprints.pretty")(options "")(descr ""))
-  (lib (name "BMX160")(type "KiCad")(uri "${KIPRJMOD}/3rd_party_libs/BMX160")(options "")(descr ""))
-  (lib (name "USB4125-GF-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/3rd_party_libs/USB4125-GF-A_REVA")(options "")(descr ""))
-  (lib (name "USBLC6-2SC6")(type "KiCad")(uri "${KIPRJMOD}/3rd_party_libs/USBLC6-2SC6")(options "")(descr ""))
-  (lib (name "Pico-Spox")(type "KiCad")(uri "${KIPRJMOD}/3rd_party_libs/Pico-Spox.pretty")(options "")(descr ""))
-  (lib (name "RGBLED")(type "KiCad")(uri "${KIPRJMOD}/3rd_party_libs/RGBLED.pretty")(options "")(descr ""))
-)

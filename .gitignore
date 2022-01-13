@@ -21,5 +21,5 @@ fp-info-cache
 *.dsn
 *.ses
 
-carrier-pcb/unfolding-backups
-carrier-pcb/unfolding_route_try-backups/
+unfolding-backups
+unfolding.kicad_prl

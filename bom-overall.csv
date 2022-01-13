@@ -1,0 +1,10 @@
+Id,Designator,Manufacturer,Quantity,Designation,Description,Link,Est. Price €
+1,pcb,,1,,see pcb bom for details,pcb/bom-pcb.csv,66
+2,glove,,1,,see glove bom for details,glove/bom-glove.csv,
+3,Raspberry Pi Compute Module 4,Raspberry Pi Foundation,1,CM4101016,CM4101008 would also suffice,,40
+,Cooling Fan for the CM4,Waveshare ,1,cm4-fan-3007,,https://www.waveshare.com/cm4-fan-3007.htm,9
+,ToF Camera,pmdtechnologies ag,1,CamBoard Pico Flexx ,version 2 released in Jan 2022,https://www.automation24.co.uk/development-kit-pmd-vision-r-camboard-pico-flexx-700-000-094,300
+,USB-C Cable,Renkforce,1,RF-3241262,short USB-C cablecould be any…,,7
+,5V USB power bank,Hama,1,188307,"10 Ah Power Bank, could be any…",,20
+,,,,,,,
+,,,,,,SUM,

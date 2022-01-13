@@ -1,0 +1,6 @@
+Note that this library is taken from https://github.com/ShawnHymel/rpi-cm4-base-carrier, licensed under CC-BY-4.0. 
+
+The CM4IO library is also availabe at https://www.raspberrypi.com/products/compute-module-4-io-board/
+
+If you want to use the file(s) in your own project, consider downloading it yourself.
+

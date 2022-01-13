@@ -1,0 +1,1 @@
+Note that these data sheets come from various sources and are the property of the respective companies. They are dated June 2021, when I created the PCB. I have collected them in this folder to make understanding the project and its parts easier and faster.  Please download your own (current) copy if you want to use them in your project.

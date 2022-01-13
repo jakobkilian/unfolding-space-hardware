@@ -1,0 +1,24 @@
+Id,Designator,Package,Quantity,Designation,Description,Link,Est. Price Û
+1,J3,https://www.digikey.de/de/products/detail/te-connectivity-amp-connectors/8-215083-8/1955684,1,1-338068-8,IDC socket for glove connection,,1.5
+2,C19;C15;C10;C13;C9;C5;C16;C14;C12;C24;C4;C2;C1;C3;C8;C20;C17;C18;C11;C6;C7,C_0603_1608Metric,21,1u,capacitor,,1
+3,C21;C22,C_0603_1608Metric,2,100n,capacitor,,0
+4,C23,C_0603_1608Metric,1,2.2u,capacitor,,0
+5,D1,D_SMA,1,SMBJ5.0A,ESD for USB-C power supply,,0.5
+6,J1,GCT_USB4125-GF-A_REVA,1,USB4125-GF-A_REVA,USB-C power supply socket,,0.5
+7,ToFCam-Stecker,Micro-USB30-Plug,1,System-S USB 3.0 cable,glued USB plug,https://www.system-s.com/USB-3-0-Micro-B/SYSTEM-S-Micro-USB-3-0-Kabel-90-GRAD-Grad-Winkel-Rechts-gewinkelt-auf-USB-Typ-A-3-0-Aufwaerts-gewinkelt-Adapter-Datenkabel-und-Ladekabel-27-cm::46106.html,9
+8,J7,PICOspox-2-v,1,PICOspox-2-v,cooling fan plug,,0.5
+9,U12,PQFN50P250X300X100-14N,1,LSM6DSxx,IMU / Accelerometer and Gyroscope,,5
+10,R28;R31,R_0603_1608Metric,2,1K,resistor,,0
+11,R18;R19;R17;R7;R11;R13;R16;R3;R20;R9;R22;R26;R15;R24;R10;R25;R12;R4;R23;R8;R14;R21,R_0603_1608Metric,22,2K2,resistor,,1
+12,R29;R32,R_0603_1608Metric,2,220,resistor,,0
+13,R33;R30,R_0603_1608Metric,2,150,resistor,,0
+14,R6;R5,R_0603_1608Metric,2,10K,resistor,,0
+15,R1;R2,R_0603_1608Metric,2,5K1,resistor,,0
+19,U13,SOT-23-6,1,WE 82400102,TVS diode for USB data (camera),,1
+20,U2;U1,TSSOP-24_4.4x7.8mm_P0.65mm,2,TCA9548APWR,i2c multiplexer,,7
+21,D3;D2,UHD1110-FKA,2,UHD1110-FKA,RGB LED,,0.5
+22,U3;U5;U10;U8;U4;U11;U9;U7;U6,VSSOP-10_3x3mm_P0.5mm,9,DRV2605LDGS,motor driver,,33
+23,U14,WLP-4_0.86x0.86mm_P0.4mm,1,MMC5633NJL,compass,,1.5
+24,-,,2,DF40HC(3.0)-100DS-0.4V(51,100pin mezzanine connector for CM4,https://www.mouser.de/ProductDetail/Hirose-Connector/DF40HC30-100DS-04V51?qs=%252BAZVS4b%2FkgIV%252B3vHYy2dCA%3D%3D,4
+25,-,,1,,Board production,,10
+,,,,,,SUM,76

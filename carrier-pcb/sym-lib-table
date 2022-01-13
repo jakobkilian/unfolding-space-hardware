@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO.kicad_sym")(options "")(descr ""))
-  (lib (name "2021-04-16_16-40-50")(type "Legacy")(uri "${KIPRJMOD}/3rd_party_libs/TE1-338068-8/ul_13380688/2021-04-16_16-40-50.lib")(options "")(descr ""))
-  (lib (name "USBLC6-2SC6")(type "Legacy")(uri "${KIPRJMOD}/3rd_party_libs/USBLC6-2SC6/USBLC6-2SC6.lib")(options "")(descr ""))
-)
