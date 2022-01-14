@@ -18,7 +18,7 @@ The overall structure consists of 3 components:
 - **USB-C Cable:** Here too, maintaining the voltage is crucial: use the shortest possible cable with good quality. The thickness of the insulation is a good indicator for low voltage drop, but only cutting and testing the copper wires can provide certainty. I had a 30 cm USB-A to USB-C cable from *Renkforce* in use (pictured), there may be plenty of others in your country.
 - An finally **a) The Glove** hosting vibration motors and **b) the Unfolding Space Carrier Board** hosting the Raspberry Pi. See next sections.
 
-![Prototype with labels](doc/images/finalPrototypeLabels.jpg)
+![Prototype with labels](images/finalPrototypeLabels.jpg)
 
 
 
@@ -26,7 +26,7 @@ The overall structure consists of 3 components:
 
 The glove consists of two textile layers between which the motors are attached and the cables are laid. On the outside (back of the hand) there are Velcro fasteners and an IDC connector for attaching the carrier board. Currently there are two sizes, fitting most hand shapes and sizes. The production of the glove is relatively elaborate and is explained step by step in the `glove` directory of this repo.
 
-![Glove Overview](doc/images/glove-overview.jpg)
+![Glove Overview](images/glove-overview.jpg)
 
 
 
@@ -42,13 +42,13 @@ The carrier board again consists of multiple components:
 
 
 
-![Carrier Board Overview](doc/images/carrier-board-overview.jpg)
+![Carrier Board Overview](images/carrier-board-overview.jpg)
 
 
 
 ## Parts and Prices
 
-There is a parts list / BOM with all components assembled on the root directory (called `bom-overall`) which refers to further BOMs in directories `pcb` and `glove`. The total price of the overall structure is about $ 500, two thirds of which go to the ToF camera. Take a look at the BOMS for details.
+There is a parts list / BOM with all components assembled on the root directory (called `bom-overall`) which refers to further BOMs in directories [pcb](/pcb) and `glove`. The total price of the overall structure is about $ 500, two thirds of which go to the ToF camera. Take a look at the BOMS for details.
 
 
 
