@@ -1,22 +1,22 @@
 # Custom PCB: Unfolding Space Carrier Board Rev. 2
 
-![pcb-only](/Users/jakobkilian/Documents/UNFOLDING/CODE/unfolding-space-hardware/doc/images/pcb-only.jpg)
+![The printed circuit board without Raspberry Pi and camera](images/pcb-only.jpg)
 
 
 
 ## PCB Design Files
 
-You can find the **design files** in `KiCad-Project-Rev2` and exports (**schematic, pcb layout, rendering**) in the `exports` directory. 
+You can find the **design files** in [KiCad-Project-Rev2](/KiCad-Project-Rev2) and exports (**schematic, pcb layout, rendering**) in [exports](/exports).
 
 **Design rules** are based on the specifications of a *2-layer, complex, ENIG* board at aisler.net. Note that some of my rules thus are a bit unusual (e.g. clearance ≥ 0.1 mm or track width ≥ 0.2 mm; through whole ≥ 0.3mm) [See all specifications of Aisler here.](https://aisler.net/help/design-rules-and-specifications/design-rules) 
 
 There also is a [Aisler project of the Rev. 2 board online](https://aisler.net/p/WSTOTZAR) if you are from Europe. Attention: the BOM / parts list needs to be updated to respective components by hand!
 
-![unfolding2](/Users/jakobkilian/Documents/UNFOLDING/CODE/unfolding-space-hardware/doc/images/unfolding2.jpg)
+![unfolding2](exports/Rev2-pcb-3D-render.png)
 
 ## BOM / parts list
 
-See `bom-pcb` for a list with all needed parts for the pcb alone.
+See [bom-pcb](/bom-pcb.csv) for a list with all needed parts for the pcb alone.
 
 
 
