@@ -6,7 +6,7 @@
 
 ## PCB Design Files
 
-You can find the **design files** in [KiCad-Project-Rev2](/pcb/KiCad-Project-Rev2) and exports (**schematic, pcb layout, rendering**) in [exports](pcb/exports).
+You can find the **design files** in [KiCad-Project-Rev2](/pcb/KiCad-Project-Rev2) and exports (**schematic, pcb layout, rendering**) in [exports](exports).
 
 **Design rules** are based on the specifications of a *2-layer, complex, ENIG* board at aisler.net. Note that some of my rules thus are a bit unusual (e.g. clearance ≥ 0.1 mm or track width ≥ 0.2 mm; through whole ≥ 0.3mm). [See all specifications of Aisler here.](https://aisler.net/help/design-rules-and-specifications/design-rules) 
 

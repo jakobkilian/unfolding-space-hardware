@@ -2,7 +2,7 @@
 
 This repo contains the **hardware documentation of the “Unfolding Space” glove** – a prototypical open source navigation aid system for the visually impaired. 
 
-Please check out the main repository of the [Unfolding Space](www.github.com/jakobkilian/unfolding-space) project for more information and a list of related repos anc content.
+Please check out the main repository of the [Unfolding Space](https://www.github.com/jakobkilian/unfolding-space) project for more information and a list of related repos anc content.
 
 
 
