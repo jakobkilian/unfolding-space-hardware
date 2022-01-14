@@ -48,7 +48,7 @@ The carrier board again consists of multiple components:
 
 ## Parts and Prices
 
-There is a parts list / BOM with all components assembled on the root directory (called [bom-overall](/bomb-overall.csv)) which refers to further BOMs in directories [pcb](/pcb) and [glove](/glove). The total price of the overall structure is about $ 500, two thirds of which go to the ToF camera. Take a look at the BOMS for details.
+There is a parts list / BOM with all components assembled on the root directory (called [bom-overall](/bom-overall.csv)) which refers to further BOMs in directories [pcb](/pcb) and [glove](/glove). The total price of the overall structure is about $ 500, two thirds of which go to the ToF camera. Take a look at the BOMS for details.
 
 
 
